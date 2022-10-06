@@ -53,4 +53,4 @@ plt.legend(['regression line','data points'])
 
 
 # Results and Output :
-![output](2.png)
+![output](3.png)
